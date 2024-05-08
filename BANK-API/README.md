@@ -25,6 +25,10 @@ The project consists of the following components:
 
 Run the unit tests using `pytest`.
 
+## Time Taken
+
+I spent approximately 1 day to complete this assignment.
+
 ## Author
 
 Theertha O
